@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATIVIDADE</title>
+
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <div class="geral">
+
+        <div class="texto1">
+
+            <h1 class="titulo-b1">JOGADORES</h1>
+
+            <h3>YURI,MEMPHIS, GARRO</h3>
+
+            <p>
+            Yuri Alberto, Memphis Depay, Rodrigo Garro, Gabriel Bondon, Hugo, Matheuzinho, Matheus Bidu e Raniele fazem parte da história recente do Corinthians. 
+            Yuri Alberto atua como atacante e se destaca pela presença na área e pelos gols. Memphis Depay, atacante holandês, trouxe experiência internacional e 
+            qualidade ao ataque. Rodrigo Garro se destaca pela criatividade, pelos passes e pelas finalizações. Gabriel Bondon atua na defesa, enquanto Hugo e Matheus Bidu 
+            jogam pelas laterais. Matheuzinho também atua como lateral e contribui tanto na defesa quanto no apoio ao ataque. Já Raniele é meio-campista e se destaca pela 
+            marcação e pela força no meio-campo.
+            </p>
+
+        </div>
+
+
+        <div class="bloco2">
+
+            <img src="img/yuri.jpg" alt="" class = "yuri">
+
+            <img src="img/depay.jpg" alt="" class ="depay">
+
+            <img src="img/garro.jpg" alt="" class ="garro">
+
+            <img src="img/bidu.jpg" alt="" class ="bidu">
+
+            <img src="img/bidon.jpg" alt=""class = "bidon">
+
+            <img src="img/hugo.jpg" alt="" class ="hugo">
+
+              <img src="img/mathueszinho.jpg" alt="" class ="mathueszinho">
+
+            <img src="img/raniele.jpg" alt="" class = "raniele">
+
+
+
+        </div>
+
+    </div>
+
+</body>
+</html>
